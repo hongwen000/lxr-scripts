@@ -1,5 +1,5 @@
-python3 -m venv venv
-source venv/bin/activate
+# python3 -m venv venv
+# source venv/bin/activate
 
 echo "Installing deps..."
 cd ./sd-scripts
